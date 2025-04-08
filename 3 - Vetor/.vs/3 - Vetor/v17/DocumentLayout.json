@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solre\\Documents\\3 - Vetor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6590345F-9D0F-4457-BD4B-B8C7FF483F6D}|3 - Vetor.csproj|c:\\users\\solre\\documents\\3 - vetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6590345F-9D0F-4457-BD4B-B8C7FF483F6D}|3 - Vetor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6590345F-9D0F-4457-BD4B-B8C7FF483F6D}|3 - Vetor.csproj|c:\\users\\solre\\documents\\3 - vetor\\3 - vetor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6590345F-9D0F-4457-BD4B-B8C7FF483F6D}|3 - Vetor.csproj|solutionrelative:3 - vetor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6590345F-9D0F-4457-BD4B-B8C7FF483F6D}|3 - Vetor.csproj|c:\\users\\solre\\documents\\3 - vetor\\faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6590345F-9D0F-4457-BD4B-B8C7FF483F6D}|3 - Vetor.csproj|solutionrelative:faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3 - Vetor",
+              "DocumentMoniker": "C:\\Users\\solre\\Documents\\3 - Vetor\\3 - Vetor.csproj",
+              "RelativeDocumentMoniker": "3 - Vetor.csproj",
+              "ToolTip": "C:\\Users\\solre\\Documents\\3 - Vetor\\3 - Vetor.csproj",
+              "RelativeToolTip": "3 - Vetor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T14:41:11.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Faturamento.cs",
+              "DocumentMoniker": "C:\\Users\\solre\\Documents\\3 - Vetor\\Faturamento.cs",
+              "RelativeDocumentMoniker": "Faturamento.cs",
+              "ToolTip": "C:\\Users\\solre\\Documents\\3 - Vetor\\Faturamento.cs",
+              "RelativeToolTip": "Faturamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:24:24.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solre\\Documents\\3 - Vetor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\solre\\Documents\\3 - Vetor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:19:13.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

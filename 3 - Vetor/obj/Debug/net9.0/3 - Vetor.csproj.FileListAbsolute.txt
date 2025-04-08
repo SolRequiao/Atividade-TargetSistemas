@@ -1,0 +1,17 @@
+C:\Users\solre\Documents\3 - Vetor\bin\Debug\net9.0\3 - Vetor.exe
+C:\Users\solre\Documents\3 - Vetor\bin\Debug\net9.0\3 - Vetor.deps.json
+C:\Users\solre\Documents\3 - Vetor\bin\Debug\net9.0\3 - Vetor.runtimeconfig.json
+C:\Users\solre\Documents\3 - Vetor\bin\Debug\net9.0\3 - Vetor.dll
+C:\Users\solre\Documents\3 - Vetor\bin\Debug\net9.0\3 - Vetor.pdb
+C:\Users\solre\Documents\3 - Vetor\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\solre\Documents\3 - Vetor\obj\Debug\net9.0\3 - Vetor.csproj.AssemblyReference.cache
+C:\Users\solre\Documents\3 - Vetor\obj\Debug\net9.0\3 - Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solre\Documents\3 - Vetor\obj\Debug\net9.0\3 - Vetor.AssemblyInfoInputs.cache
+C:\Users\solre\Documents\3 - Vetor\obj\Debug\net9.0\3 - Vetor.AssemblyInfo.cs
+C:\Users\solre\Documents\3 - Vetor\obj\Debug\net9.0\3 - Vetor.csproj.CoreCompileInputs.cache
+C:\Users\solre\Documents\3 - Vetor\obj\Debug\net9.0\3 - Vetor.csproj.Up2Date
+C:\Users\solre\Documents\3 - Vetor\obj\Debug\net9.0\3 - Vetor.dll
+C:\Users\solre\Documents\3 - Vetor\obj\Debug\net9.0\refint\3 - Vetor.dll
+C:\Users\solre\Documents\3 - Vetor\obj\Debug\net9.0\3 - Vetor.pdb
+C:\Users\solre\Documents\3 - Vetor\obj\Debug\net9.0\3 - Vetor.genruntimeconfig.cache
+C:\Users\solre\Documents\3 - Vetor\obj\Debug\net9.0\ref\3 - Vetor.dll

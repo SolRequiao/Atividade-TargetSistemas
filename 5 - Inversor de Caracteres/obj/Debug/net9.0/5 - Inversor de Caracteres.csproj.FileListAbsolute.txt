@@ -1,0 +1,14 @@
+C:\Users\solre\Documents\5 - Inversor de Caracteres\bin\Debug\net9.0\5 - Inversor de Caracteres.exe
+C:\Users\solre\Documents\5 - Inversor de Caracteres\bin\Debug\net9.0\5 - Inversor de Caracteres.deps.json
+C:\Users\solre\Documents\5 - Inversor de Caracteres\bin\Debug\net9.0\5 - Inversor de Caracteres.runtimeconfig.json
+C:\Users\solre\Documents\5 - Inversor de Caracteres\bin\Debug\net9.0\5 - Inversor de Caracteres.dll
+C:\Users\solre\Documents\5 - Inversor de Caracteres\bin\Debug\net9.0\5 - Inversor de Caracteres.pdb
+C:\Users\solre\Documents\5 - Inversor de Caracteres\obj\Debug\net9.0\5 - Inversor de Caracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solre\Documents\5 - Inversor de Caracteres\obj\Debug\net9.0\5 - Inversor de Caracteres.AssemblyInfoInputs.cache
+C:\Users\solre\Documents\5 - Inversor de Caracteres\obj\Debug\net9.0\5 - Inversor de Caracteres.AssemblyInfo.cs
+C:\Users\solre\Documents\5 - Inversor de Caracteres\obj\Debug\net9.0\5 - Inversor de Caracteres.csproj.CoreCompileInputs.cache
+C:\Users\solre\Documents\5 - Inversor de Caracteres\obj\Debug\net9.0\5 - Inversor de Caracteres.dll
+C:\Users\solre\Documents\5 - Inversor de Caracteres\obj\Debug\net9.0\refint\5 - Inversor de Caracteres.dll
+C:\Users\solre\Documents\5 - Inversor de Caracteres\obj\Debug\net9.0\5 - Inversor de Caracteres.pdb
+C:\Users\solre\Documents\5 - Inversor de Caracteres\obj\Debug\net9.0\5 - Inversor de Caracteres.genruntimeconfig.cache
+C:\Users\solre\Documents\5 - Inversor de Caracteres\obj\Debug\net9.0\ref\5 - Inversor de Caracteres.dll

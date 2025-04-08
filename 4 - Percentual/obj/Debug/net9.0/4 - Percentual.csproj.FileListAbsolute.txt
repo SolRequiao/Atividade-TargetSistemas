@@ -1,0 +1,14 @@
+C:\Users\solre\Documents\4 - Percentual\bin\Debug\net9.0\4 - Percentual.exe
+C:\Users\solre\Documents\4 - Percentual\bin\Debug\net9.0\4 - Percentual.deps.json
+C:\Users\solre\Documents\4 - Percentual\bin\Debug\net9.0\4 - Percentual.runtimeconfig.json
+C:\Users\solre\Documents\4 - Percentual\bin\Debug\net9.0\4 - Percentual.dll
+C:\Users\solre\Documents\4 - Percentual\bin\Debug\net9.0\4 - Percentual.pdb
+C:\Users\solre\Documents\4 - Percentual\obj\Debug\net9.0\4 - Percentual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solre\Documents\4 - Percentual\obj\Debug\net9.0\4 - Percentual.AssemblyInfoInputs.cache
+C:\Users\solre\Documents\4 - Percentual\obj\Debug\net9.0\4 - Percentual.AssemblyInfo.cs
+C:\Users\solre\Documents\4 - Percentual\obj\Debug\net9.0\4 - Percentual.csproj.CoreCompileInputs.cache
+C:\Users\solre\Documents\4 - Percentual\obj\Debug\net9.0\4 - Percentual.dll
+C:\Users\solre\Documents\4 - Percentual\obj\Debug\net9.0\refint\4 - Percentual.dll
+C:\Users\solre\Documents\4 - Percentual\obj\Debug\net9.0\4 - Percentual.pdb
+C:\Users\solre\Documents\4 - Percentual\obj\Debug\net9.0\4 - Percentual.genruntimeconfig.cache
+C:\Users\solre\Documents\4 - Percentual\obj\Debug\net9.0\ref\4 - Percentual.dll

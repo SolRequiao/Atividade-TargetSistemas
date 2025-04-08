@@ -1,0 +1,14 @@
+C:\Users\solre\Documents\1 - Soma\bin\Debug\net9.0\1 - Soma.exe
+C:\Users\solre\Documents\1 - Soma\bin\Debug\net9.0\1 - Soma.deps.json
+C:\Users\solre\Documents\1 - Soma\bin\Debug\net9.0\1 - Soma.runtimeconfig.json
+C:\Users\solre\Documents\1 - Soma\bin\Debug\net9.0\1 - Soma.dll
+C:\Users\solre\Documents\1 - Soma\bin\Debug\net9.0\1 - Soma.pdb
+C:\Users\solre\Documents\1 - Soma\obj\Debug\net9.0\1 - Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solre\Documents\1 - Soma\obj\Debug\net9.0\1 - Soma.AssemblyInfoInputs.cache
+C:\Users\solre\Documents\1 - Soma\obj\Debug\net9.0\1 - Soma.AssemblyInfo.cs
+C:\Users\solre\Documents\1 - Soma\obj\Debug\net9.0\1 - Soma.csproj.CoreCompileInputs.cache
+C:\Users\solre\Documents\1 - Soma\obj\Debug\net9.0\1 - Soma.dll
+C:\Users\solre\Documents\1 - Soma\obj\Debug\net9.0\refint\1 - Soma.dll
+C:\Users\solre\Documents\1 - Soma\obj\Debug\net9.0\1 - Soma.pdb
+C:\Users\solre\Documents\1 - Soma\obj\Debug\net9.0\1 - Soma.genruntimeconfig.cache
+C:\Users\solre\Documents\1 - Soma\obj\Debug\net9.0\ref\1 - Soma.dll
